@@ -1,4 +1,4 @@
-# mini-c-compiler
+# Mini compilador
 
 ## Introdução
 Este repositório consiste num compilador genérico, em que as suas regras
